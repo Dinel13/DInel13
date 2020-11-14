@@ -1,4 +1,5 @@
 ## WELCOME 👋,
+![foto saya](https://github.com/Dinel13/Shop-App/blob/notif/github-udin.png)
 ### my name is Salahuddin
 #### I am student in Informatic Engginering of _Hasanuddin University_ at Makassar, Indonesia
 
