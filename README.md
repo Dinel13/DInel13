@@ -1,4 +1,11 @@
-### Hi there 👋
+## WELCOME 👋,
+### my name is Salahuddin
+#### I am student in Informatic Engginering of _Hasanuddin University_ at Makassar, Indonesia
+
+Skills: still lerning
+
+I’m currently learning javascript and a lot of framewok and library js, like react, node, react-native and so on 🤔
+
 
 <!--
 **Dinel13/DInel13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
