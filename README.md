@@ -1,11 +1,13 @@
-## WELCOME 👋,
+## Hi!, I'm Salahuddin
 ![foto saya](https://github.com/Dinel13/Shop-App/blob/notif/github-udin.png)
-### my name is Salahuddin
-#### I am student in Informatic Engginering of _Hasanuddin University_ at Makassar, Indonesia
 
-Skills: still lerning
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dinel13&show_icons=true&hide_border=true"/>
 
-I’m currently learning javascript and a lot of framewok and library js, like react, node, react-native and so on 🤔
+#### Student in Informatic Engginering of _Hasanuddin University_ at Makassar, Indonesia
+
+Skills: lerning new thing
+
+I’m currently learning go, javascript and a lot of framewok and library like react, node, react-native and so on 🤔
 
 
 <!--
@@ -22,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=dinel13&color=blueviolet)
