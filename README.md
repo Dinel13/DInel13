@@ -5,7 +5,7 @@
 
 #### Student in Informatic Engginering of _Hasanuddin University_ at Makassar, Indonesia
 
-Skills: lerning new thing
+Skills: learning new thing
 
 I’m currently learning go, javascript and a lot of framewok and library like react, node, react-native and so on 🤔
 
