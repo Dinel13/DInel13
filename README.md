@@ -3,11 +3,11 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dinel13&show_icons=true&hide_border=true"/>
 
-#### Student in Informatic Engginering of _Hasanuddin University_ at Makassar, Indonesia
+#### Software Engineer at _tiket.com_
 
-Skills: learning new thing
+Enjoy Building and learning
 
-I’m currently learning go, javascript and a lot of framewok and library like react, node, react-native and so on 🤔
+<!-- I’m currently learning go, javascript and a lot of framewok and library like react, node, react-native and so on 🤔 -->
 
 
 <!--
