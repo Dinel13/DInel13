@@ -3,7 +3,7 @@
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=dinel13&show_icons=true&hide_border=true"/> -->
 
-#### Software Engineer at _tiket.com_
+<!-- #### Software Engineer at _tiket.com_  -->
 
 <!-- Enjoy Building and learning -->
 
@@ -24,5 +24,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br>
+
+ **Software Engineer at [@tiket.com](https://tiket.com)**
+
+<br>
+<!-- 🔭 I’m currently working on **setting up my Homelab.** -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinel13&layout=compact&exclude_repo=roachcoach,GiantOctopusVR,Siege,FlyingIslandGame,MissileMania,Aurora&hide=Makefile,c%23,css,html,perl,&langs_count=10" alt="ajmwagar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinel13&show_icons=true&count_private=true" alt="ajmwagar" /></p>
 
 <!-- ![](https://komarev.com/ghpvc/?username=dinel13&color=blueviolet) -->
